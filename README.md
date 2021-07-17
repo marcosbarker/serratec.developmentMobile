@@ -28,12 +28,14 @@
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 - [Material de Aula](materialDeAula/)<br>
 - <details>
-   <summary>Clonar um Aplicativo (<i>PicPay</i>)</summary>
+   <summary>Clonar um Aplicativo</summary>
       Escolher um aplicativo das lojas e recriar a interface de duas telas, utilizando React Native.<br>
       As telas devem ser:<br>
       - 1 Tela de Login<br>
       - 1 Tela Principal ou uma de sua escolha.<br>
 </details>
+
+ - [PicPay](https://github.com/marcosbarker/PicPay-clone)
 
 ## 🥑    Projeto Final 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROPRODUTOS Avocado Store**    [*(Enunciado)*](https://github.com/marcosbarker/ZeroProdutos/blob/main/assets/doc.md)
