@@ -40,13 +40,18 @@
 ## 🥑    Projeto Final 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROPRODUTOS Avocado Store**    [*(Enunciado)*](https://github.com/marcosbarker/ZeroProdutos/blob/main/assets/doc.md)
 * [**Repositório**](https://github.com/marcosbarker/ZeroProdutos)
-</br>
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
+- [**Axios**](https://www.npmjs.com/package/react-axios)    [(*Documentação*)](https://www.npmjs.com/package/react-axios)
+- [**CSS**](https://www.w3.org/Style/CSS/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [**Expo**](https://docs.expo.io/)    [(*Documentação*)](https://docs.expo.io/guides/)
+- [**JavaScript**](https://www.javascript.com/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [**Node**](https://nodejs.org/en/)    [(*Documentação*)](https://nodejs.org/en/docs/)
 - [**npm**](https://www.npmjs.com/)    [(*Documentação*)](https://docs.npmjs.com/)
-- [**React Native**](https://reactnative.dev/)    [(*Documentação*)](https://reactnative.dev/docs/getting-started)
+- [**React Native**](https://reactnative.dev/)    [*(Documentação)*](https://reactnative.dev/docs/getting-started)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [**React Navigation**](https://reactnavigation.org/)    [(*Documentação*)](https://reactnavigation.org/docs/getting-started/)
 - [**Visual Studio Code**](https://code.visualstudio.com/)    [*(Documentação)*](https://code.visualstudio.com/docs)
+ - [**Yarn**](https://yarnpkg.com/)    [(*Documentação*)](https://yarnpkg.com/getting-started) 
 
 <br>
 
